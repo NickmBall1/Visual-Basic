@@ -1,0 +1,11 @@
+H:\Addressbook\Addressbook\bin\Debug\Addressbook.exe.config
+H:\Addressbook\Addressbook\bin\Debug\Addressbook.exe
+H:\Addressbook\Addressbook\bin\Debug\Addressbook.pdb
+H:\Addressbook\Addressbook\bin\Debug\Addressbook.xml
+H:\Addressbook\Addressbook\obj\Debug\Addressbook.vbprojResolveAssemblyReference.cache
+H:\Addressbook\Addressbook\obj\Debug\Addressbook.Form1.resources
+H:\Addressbook\Addressbook\obj\Debug\Addressbook.Resources.resources
+H:\Addressbook\Addressbook\obj\Debug\Addressbook.vbproj.GenerateResource.Cache
+H:\Addressbook\Addressbook\obj\Debug\Addressbook.exe
+H:\Addressbook\Addressbook\obj\Debug\Addressbook.xml
+H:\Addressbook\Addressbook\obj\Debug\Addressbook.pdb
