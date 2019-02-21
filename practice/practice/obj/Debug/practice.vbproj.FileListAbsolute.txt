@@ -1,0 +1,16 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\bin\Debug\practice.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\bin\Debug\practice.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\bin\Debug\practice.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\bin\Debug\practice.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\obj\Debug\practice.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\obj\Debug\practice.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\obj\Debug\practice.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\obj\Debug\practice.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\obj\Debug\practice.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\obj\Debug\practice.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\practice\practice\obj\Debug\practice.pdb
+H:\practice\practice\bin\Debug\practice.exe.config
+H:\practice\practice\obj\Debug\practice.exe
+H:\practice\practice\obj\Debug\practice.xml
+H:\practice\practice\obj\Debug\practice.pdb
+H:\practice\practice\obj\Debug\practice.vbprojResolveAssemblyReference.cache
