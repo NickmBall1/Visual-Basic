@@ -1,0 +1,15 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\bin\Debug\Variable.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\bin\Debug\Variable.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\bin\Debug\Variable.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\bin\Debug\Variable.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\obj\Debug\Variable.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\obj\Debug\Variable.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\obj\Debug\Variable.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\obj\Debug\Variable.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\obj\Debug\Variable.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\obj\Debug\Variable.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Variable\Variable\obj\Debug\Variable.pdb
+H:\Variable\Variable\bin\Debug\Variable.exe.config
+H:\Variable\Variable\obj\Debug\Variable.exe
+H:\Variable\Variable\obj\Debug\Variable.xml
+H:\Variable\Variable\obj\Debug\Variable.pdb
