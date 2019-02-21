@@ -1,0 +1,11 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\bin\Debug\clicky game.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\bin\Debug\clicky game.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\bin\Debug\clicky game.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\bin\Debug\clicky game.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\obj\Debug\clicky game.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\obj\Debug\clicky_game.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\obj\Debug\clicky_game.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\obj\Debug\clicky game.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\obj\Debug\clicky game.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\obj\Debug\clicky game.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\clicky game\clicky game\obj\Debug\clicky game.pdb

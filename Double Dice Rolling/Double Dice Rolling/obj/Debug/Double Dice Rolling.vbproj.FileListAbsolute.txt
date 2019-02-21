@@ -1,0 +1,14 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Double Dice Rolling\Double Dice Rolling\bin\Debug\Double Dice Rolling.exe.config
+H:\Double Dice Rolling\Double Dice Rolling\bin\Debug\Double Dice Rolling.exe.config
+H:\Double Dice Rolling\Double Dice Rolling\bin\Debug\Double Dice Rolling.exe
+H:\Double Dice Rolling\Double Dice Rolling\bin\Debug\Double Dice Rolling.pdb
+H:\Double Dice Rolling\Double Dice Rolling\bin\Debug\Double Dice Rolling.xml
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double Dice Rolling.vbprojResolveAssemblyReference.cache
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double_Dice_Rolling.Form1.resources
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double_Dice_Rolling.Form2.resources
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double_Dice_Rolling.Form3.resources
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double_Dice_Rolling.Resources.resources
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double Dice Rolling.vbproj.GenerateResource.Cache
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double Dice Rolling.exe
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double Dice Rolling.xml
+H:\Double Dice Rolling\Double Dice Rolling\obj\Debug\Double Dice Rolling.pdb
