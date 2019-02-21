@@ -1,0 +1,11 @@
+H:\Roulette Project\Roulette Project\bin\Debug\Roulette Project.exe.config
+H:\Roulette Project\Roulette Project\bin\Debug\Roulette Project.exe
+H:\Roulette Project\Roulette Project\bin\Debug\Roulette Project.pdb
+H:\Roulette Project\Roulette Project\bin\Debug\Roulette Project.xml
+H:\Roulette Project\Roulette Project\obj\Debug\Roulette Project.vbprojResolveAssemblyReference.cache
+H:\Roulette Project\Roulette Project\obj\Debug\Roulette_Project.Form1.resources
+H:\Roulette Project\Roulette Project\obj\Debug\Roulette_Project.Resources.resources
+H:\Roulette Project\Roulette Project\obj\Debug\Roulette Project.vbproj.GenerateResource.Cache
+H:\Roulette Project\Roulette Project\obj\Debug\Roulette Project.exe
+H:\Roulette Project\Roulette Project\obj\Debug\Roulette Project.xml
+H:\Roulette Project\Roulette Project\obj\Debug\Roulette Project.pdb

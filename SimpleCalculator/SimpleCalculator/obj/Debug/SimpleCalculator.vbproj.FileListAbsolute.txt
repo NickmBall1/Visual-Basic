@@ -1,0 +1,11 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
