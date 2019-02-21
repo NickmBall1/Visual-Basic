@@ -1,0 +1,10 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Mortage Calculator\Mortage Calculator\bin\Debug\Mortage Calculator.exe.config
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\bin\Debug\Mortage Calculator.exe
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\bin\Debug\Mortage Calculator.pdb
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\bin\Debug\Mortage Calculator.xml
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\obj\Debug\Mortage Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\obj\Debug\Mortage_Calculator.Resources.resources
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\obj\Debug\Mortage Calculator.vbproj.GenerateResource.Cache
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\obj\Debug\Mortage Calculator.exe
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\obj\Debug\Mortage Calculator.xml
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Mortage Calculator\Mortage Calculator\obj\Debug\Mortage Calculator.pdb
