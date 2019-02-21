@@ -1,0 +1,11 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\bin\Debug\Encryption Practice.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\bin\Debug\Encryption Practice.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\bin\Debug\Encryption Practice.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\bin\Debug\Encryption Practice.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\obj\Debug\Encryption_Practice.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\obj\Debug\Encryption_Practice.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\obj\Debug\Encryption Practice.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\obj\Debug\Encryption Practice.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\obj\Debug\Encryption Practice.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\obj\Debug\Encryption Practice.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Encryption Practice\Encryption Practice\obj\Debug\Encryption Practice.vbprojResolveAssemblyReference.cache
