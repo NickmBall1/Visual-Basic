@@ -1,0 +1,15 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\bin\Debug\PropertiesPractice2.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\bin\Debug\PropertiesPractice2.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\bin\Debug\PropertiesPractice2.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\bin\Debug\PropertiesPractice2.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.pdb
+H:\PropertiesPractice2\PropertiesPractice2\bin\Debug\PropertiesPractice2.exe.config
+H:\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.exe
+H:\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.xml
+H:\PropertiesPractice2\PropertiesPractice2\obj\Debug\PropertiesPractice2.pdb

@@ -1,0 +1,11 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Properties Assignment\Properties Assignment\bin\Debug\Properties Assignment.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Properties Assignment\Properties Assignment\obj\Debug\Properties_Assignment.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Properties Assignment\Properties Assignment\obj\Debug\Properties_Assignment.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Properties Assignment\Properties Assignment\obj\Debug\Properties Assignment.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Properties Assignment\Properties Assignment\obj\Debug\Properties Assignment.xml
+C:\Users\nicholas.m.ball\documents\visual studio 2015\Projects\Properties Assignment\Properties Assignment\obj\Debug\Properties Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Properties Assignment\Properties Assignment\bin\Debug\Properties Assignment.exe
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Properties Assignment\Properties Assignment\bin\Debug\Properties Assignment.pdb
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Properties Assignment\Properties Assignment\bin\Debug\Properties Assignment.xml
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Properties Assignment\Properties Assignment\obj\Debug\Properties Assignment.exe
+C:\Users\nicholas.m.ball\Documents\Visual Studio 2015\Projects\Properties Assignment\Properties Assignment\obj\Debug\Properties Assignment.pdb
