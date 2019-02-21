@@ -1,0 +1,22 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\obj\Debug\Temperature_Averager.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\obj\Debug\Temperature_Averager.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.pdb
+H:\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.exe.config
+H:\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.exe
+H:\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.xml
+H:\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.pdb
+H:\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.exe
+H:\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.pdb
+H:\Temperature Averager\Temperature Averager\bin\Debug\Temperature Averager.xml
+H:\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.vbprojResolveAssemblyReference.cache
+H:\Temperature Averager\Temperature Averager\obj\Debug\Temperature_Averager.Form1.resources
+H:\Temperature Averager\Temperature Averager\obj\Debug\Temperature_Averager.Resources.resources
+H:\Temperature Averager\Temperature Averager\obj\Debug\Temperature Averager.vbproj.GenerateResource.Cache
