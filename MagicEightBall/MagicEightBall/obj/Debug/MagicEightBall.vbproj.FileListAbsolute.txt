@@ -1,0 +1,15 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\bin\Debug\MagicEightBall.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\bin\Debug\MagicEightBall.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\bin\Debug\MagicEightBall.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\bin\Debug\MagicEightBall.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.pdb
+H:\MagicEightBall\MagicEightBall\bin\Debug\MagicEightBall.exe.config
+H:\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.exe
+H:\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.xml
+H:\MagicEightBall\MagicEightBall\obj\Debug\MagicEightBall.pdb
