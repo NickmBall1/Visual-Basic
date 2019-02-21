@@ -1,0 +1,22 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.vbprojResolveAssemblyReference.cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.pdb
+H:\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.exe.config
+H:\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.exe
+H:\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.xml
+H:\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.pdb
+H:\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.exe
+H:\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.pdb
+H:\CircleCalculator\CircleCalculator\bin\Debug\CircleCalculator.xml
+H:\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.vbprojResolveAssemblyReference.cache
+H:\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.Form1.resources
+H:\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.Resources.resources
+H:\CircleCalculator\CircleCalculator\obj\Debug\CircleCalculator.vbproj.GenerateResource.Cache
