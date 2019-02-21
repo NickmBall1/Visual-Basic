@@ -1,0 +1,10 @@
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.Resources.resources
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.vbproj.GenerateResource.Cache
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.xml
+c:\users\nicholas.m.ball\documents\visual studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
