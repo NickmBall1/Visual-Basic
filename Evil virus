@@ -1,0 +1,2 @@
+            Application.Exit()
+            Process.Start(Application.ExecutablePath)
