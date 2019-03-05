@@ -1,2 +1,35 @@
             Application.Exit()
             Process.Start(Application.ExecutablePath)
+
+
+Public Class Form1
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Dim RND As New Random
+
+        Dim colors As Single
+
+        colors = RND.Next(1, 9)
+
+        Select Case colors
+            Case 1
+                Me.BackColor = Color.Red
+            Case 2
+                Me.BackColor = Color.Orange
+            Case 3
+                Me.BackColor = Color.Yellow
+            Case 4
+                Me.BackColor = Color.Green
+            Case 5
+                Me.BackColor = Color.Blue
+            Case 6
+                Me.BackColor = Color.Purple
+            Case 7
+                Me.BackColor = Color.Black
+            Case 8
+                Me.BackColor = Color.Brown
+            Case 9
+                Me.BackColor = Color.Beige
+        End Select
+        Process.Start(Application.ExecutablePath)
+    End Sub
+End Class
